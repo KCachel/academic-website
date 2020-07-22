@@ -41,7 +41,7 @@ social:
   link: 'mailto:kcachel@wpi.edu'  #contact or  For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.co.uk/citations?view_op=list_works&hl=en&user=Ln6wuTYAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/KCachel
@@ -61,7 +61,8 @@ email: ""
 # - Visitors
 ---
 
-Hello, I'm Kathleen! (pronouns: she/her)
+Hello, I'm Kathleen! 
+###### (pronouns: she/her)
 
 I'm a first year PhD student in the Data Science program at [WPI](https://www.wpi.edu/). My research interests include using prescriptive (Optimization) and predicitive (Machine Learning) analytics to tackle problems with societal impact and aid marginalized populations. I also have a passion for data visualization and effective communication of analytics.
 
