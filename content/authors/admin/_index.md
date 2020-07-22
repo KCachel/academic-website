@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-  - course: BSc in Computer Science
+  - course: BS in Computer Science
     institution: Tufts University
     year: 2016
 
