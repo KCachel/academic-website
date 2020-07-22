@@ -89,7 +89,7 @@ show_related = {docs = true, page = false, post = true, project = true, publicat
 
 email_form = 0
 # Enter contact details (optional). To hide a field, clear it to "".
-email = ""
+email = "kcachel@wpi.edu"
 phone = ""
 
 # Address
