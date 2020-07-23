@@ -66,5 +66,5 @@ Hello, I'm Kathleen!
 
 I'm a first year PhD student in the Data Science program at [WPI](https://www.wpi.edu/). My research interests include using prescriptive (Optimization) and predicitive (Machine Learning) analytics to tackle problems with societal impact and aid marginalized populations. I also have a passion for data visualization and effective communication of analytics.
 
-Before starting graduate school at WPI, I worked as a product manager for Microsoft Office building collaboration features and driving cloud adoption. I've made the jump out of industry to pursue my research endeavours. If you think this process is something you're interest ing, I would be [happy to chat](mailto:kcachel@wpi.edu?subject=reaching%out%to%chat).
+Before starting graduate school at WPI, I worked as a product manager for Microsoft Office building collaboration features and driving cloud adoption. I've made the jump out of industry to pursue my research endeavours. If you think this process is something you're interested in, I would be [happy to chat](mailto:kcachel@wpi.edu?subject=reaching%out%to%chat).
 
